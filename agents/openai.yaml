@@ -1,0 +1,4 @@
+interface:
+  display_name: "Literature Deep Reading"
+  short_description: "精读文献，梳理机制逻辑和术语"
+  default_prompt: "Use $literature-deep-reading to精读这篇文献，默认输出完整深读包：科学问题、背景逻辑、逐图证据链、表型到机制逻辑链、Q&A、专业名词解释、局限、Thinking、汇报稿与PPT大纲。"
