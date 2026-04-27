@@ -5,7 +5,7 @@ This repository contains a Codex skill for deep scientific literature reading, C
 ## Repository Layout
 
 ```text
-literature-deep-reading/
+literature_deep_reading/
   SKILL.md
   agents/openai.yaml
   references/logic-chain-patterns.md
